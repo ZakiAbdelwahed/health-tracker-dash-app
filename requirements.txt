@@ -1,0 +1,7 @@
+dash==2.6.1
+dash-bootstrap-components==0.11.1
+dash-extensions==0.1.6
+pandas
+PyDrive2
+scipy
+statsmodels
