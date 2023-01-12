@@ -1,2 +1,3 @@
-# My personal health tracker dashboard
+# Health Tracker Dashboard
+
 https://my-personal-health-tracker.onrender.com/
