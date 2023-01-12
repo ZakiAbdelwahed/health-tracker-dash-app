@@ -10,7 +10,7 @@ My goal is to live to 100 in the best mental and physical shape possible. Thanks
 - Average HRV (see definitions)
 - Average lowest heart rate
 - Average total sleep duration
-- VO2 max
+- VO2 max (see definitions)
 - Number of kilometers run since October 2016
 - HRV trend
 - Zone 2 performance trend
@@ -21,8 +21,15 @@ My goal is to live to 100 in the best mental and physical shape possible. Thanks
 - REM sleep trend
 
 ## 2. Definitions
-**HRV**: 
+**HRV**: HRV stands for Heart Rate Variability. It is a measure of the variation in time between successive heartbeats. It is often used as a marker of the nervous system's balance between the sympathetic (fight or flight) and parasympathetic (rest and digest) branches. HRV can be used to indicate how well the body is adapting to stressors and to assess the overall health of the autonomic nervous system.
+
+**VO2 max**: VO2 max is a measure of the maximum amount of oxygen that a person can consume during intense exercise. It is often used as a measure of cardiovascular fitness and can be improved through training.
+
+**Zone 2**: Zone 2 training is a type of exercise training that involves maintaining a blood lactate concentration of less than 2 mmol which is typically between 60-70% of your maximum heart rate. This type of training is often used for endurance and cardiovascular fitness.
 
 ## 2. Tools
-
+- Oura's API:
+- App used for apple health
+- Dash
+- 
 ## 3. Next steps
