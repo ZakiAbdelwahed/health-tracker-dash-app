@@ -1,0 +1,181 @@
+/* Background color of the whole page */
+body {
+background-color: #1E1E1E;
+}
+
+/* Warning color */
+.bg-warning {
+  background-color: #a02c5a !important;
+}
+
+/* Date range picker */
+.DateInput_input {
+  font-weight: 200;
+  font-size: 19px;
+  line-height: 24px;
+  color: #e6e6e6;
+  background-color: #2B2B2B;
+  width: 100%;
+  padding: 11px 11px 9px;
+  border: 0;
+  border-top: 0;
+  border-right: 0;
+  border-bottom: 2px solid transparent;
+  border-left: 0;
+  border-radius: 0
+}
+
+ .DateInput_input__focused {
+  outline: 0;
+  background: #2B2B2B;
+  border: 0;
+  border-top: 0;
+  border-right: 0;
+  border-bottom: None;
+  border-left: 0
+}
+
+.DateRangePickerInput {
+  background-color: #2B2B2B;
+  display: inline-block
+}
+
+.DateRangePickerInput__withBorder {
+  border-radius: 2px;
+  border: 1px solid #e6e6e6
+}
+
+.DateRangePickerInput_arrow_svg {
+  vertical-align: middle;
+  fill: #e6e6e6;
+  height: 24px;
+  width: 24px
+}
+
+.DateRangePickerInput_clearDates_svg {
+  fill: #e6e6e6;
+  height: 12px;
+  width: 15px;
+  vertical-align: middle
+}
+
+/* Calendar background */
+.CalendarMonth {
+  background: #e6e6e6;
+  text-align: center;
+  vertical-align: top;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none
+}
+
+.DayPicker_transitionContainer {
+	background-color: #e6e6e6;
+}
+
+.CalendarMonthGrid {
+  background: #f2f2f2;
+  text-align: left;
+  z-index: 0
+}
+
+.DateInput_fangStroke {
+  stroke: #e6e6e6 !important;
+  fill: #e6e6e6 !important;
+}
+
+/* Opposite triangle to the question mark triangle */
+.DayPickerKeyboardShortcuts_buttonReset {
+  background: #e6e6e6;
+  border: 0;
+  border-radius: 0;
+  color: inherit;
+  font: inherit;
+  line-height: normal;
+  overflow: visible;
+  padding: 0;
+  cursor: pointer;
+  font-size: 14px
+}
+
+/* Calendar question mark */
+.DayPickerKeyboardShortcuts_showSpan {
+  color: #e6e6e6;
+  position: absolute;
+}
+/* Window that opens when clicking on question mark */
+.DayPickerKeyboardShortcuts_panel {
+  color: #484848 !important;
+  overflow: auto;
+  background: #e6e6e6;
+  border: 1px solid #2B2B2B;
+  border-radius: 2px;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  z-index: 2;
+  padding: 22px;
+  margin: 33px;
+  text-align: left;
+}
+
+/* Selected days */
+.CalendarDay__selected_span {
+  background: #2B2B2B;
+  border: 1px double white;
+  color: #e6e6e6
+}
+
+/* Hover active */
+.CalendarDay__selected_span:active,
+.CalendarDay__selected_span:hover {
+  background: #a02c5a;
+  border: 1px double white;
+  color: #e6e6e6
+}
+
+/* Day selected */
+.CalendarDay__selected,
+.CalendarDay__selected:active,
+.CalendarDay__selected:hover {
+  background: #2B2B2B;
+  border: 1px double white;
+  color: #e6e6e6
+}
+
+/* Hover span*/
+.CalendarDay__hovered_span,
+.CalendarDay__hovered_span:hover {
+  background: #e4e7e7;
+  border: 1px double #e6e6e6;
+  color: #4E4E4E
+}
+
+/* Month caption */
+.CalendarMonth_caption {
+  color: #484848;
+  font-size: 18px;
+  text-align: center;
+  padding-top: 22px;
+  padding-bottom: 37px;
+  caption-side: initial
+}
+
+/* Navigation buttons */
+.DayPickerNavigation_button__default {
+  border: 1px solid #e4e7e7;
+  background-color: white;
+  color: #484848
+}
+
+/* Week header */
+.DayPicker_weekHeader {
+  color: #484848;
+  position: absolute;
+  top: 62px;
+  z-index: 2;
+  text-align: left
+}
