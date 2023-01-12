@@ -1,3 +1,3 @@
-# Health Tracker Dashboard (Oura ring + Apple Health)
+# Health Tracker Dashboard (Oura Ring + Apple Health)
 
 https://my-personal-health-tracker.onrender.com/
