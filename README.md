@@ -1,6 +1,8 @@
 # Health Tracker Dashboard
 App: https://my-personal-health-tracker.onrender.com/
 
-![alt text] (https://images.unsplash.com/photo-1463740839922-2d3b7e426a56?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2450&q=80)
+![alt text] (https://www.health.com/thmb/Vj0G1ShwMhefLwdWqp_iOydunQA=/640x0/filters:no_upscale():max_bytes(150000):strip_icc()/healthdotcom_social_placeholder-e308c2f4262d4313973d6f5e089bba92.png)
+
+![image](https://your-image-url.type) with <img src="https://your-image-url.type" width="100" height="100">
 ## 1. Goal
 ## 2. Techologies
