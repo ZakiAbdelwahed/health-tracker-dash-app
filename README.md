@@ -5,6 +5,7 @@ App: https://my-personal-health-tracker.onrender.com/
 
 ## 1. Goal
 I have the personal goal to live to 100 years old in the best mental and physical shape possible.
+
 They say "you can't improve what you don't measure", thanks to health tracking devices we now have access to an array of biometric data.
 
 
