@@ -4,7 +4,8 @@
 App: https://my-personal-health-tracker.onrender.com/
 
 ## 1. Goal
-My goal is to live to 100 in the best mental and physical shape possible. Thanks to health tracking devices, we now have access to an array of biometric data. While these devices may not be perfect, they can still give us an idea of our overall health trends. Personally, I use an Oura ring and an Apple Watch. Both devices have great apps with dashboards and graphs, but I wanted to have all my data in one place and add additional graphs. For example, the Oura ring estimates how much REM and deep sleep I get per night, but I can't see how that amount is evolving over time.
+One my goals in life is to live to 100 in the best mental and physical shape possible. Thanks to health tracking devices, we now have access to an array of biometric data. While these devices may not be perfect, they can still give us an idea of our overall health trends. Personally, I use an Oura ring and an Apple Watch. Both devices have great apps with dashboards and graphs, but I wanted to have all my data in one place and add additional graphs. For example, the Oura ring estimates how much REM and deep sleep I get per night, but I can't see how that amount is evolving over time.
+Another one of my goals is to run the equivalent of the earth's circumference, this app helps me track my progress *spoiler alert I still have a long way to go ;)
 
 ## 2. Data displayed
 - Average HRV (see definitions)
