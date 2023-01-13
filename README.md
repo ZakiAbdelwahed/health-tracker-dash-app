@@ -57,3 +57,4 @@ The next step is to implement tracking of my blood work results by uploading PDF
 - [Downloading and uploading files to Google drive using python](https://www.youtube.com/watch?v=Z2kfNx3Cgsk)
 - [Dash tutorials](https://www.youtube.com/c/charmingdata)
 - [Fontawesome icons](https://fontawesome.com/v4/icons/)
+- [Lottie files](https://lottiefiles.com/)
