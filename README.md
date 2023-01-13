@@ -36,7 +36,7 @@ Another one of my goals is to run the equivalent of the earth's circumference, t
 **REM sleep**: REM sleep stands for Rapid Eye Movement sleep, it is a stage of the sleep cycle characterized by rapid eye movement, increased brain activity, and vivid dreaming. During REM sleep, the brain is highly active and the body is in a state of paralysis, this is to prevent the person from acting out their dreams. This stage of sleep is important for memory consolidation, emotional regulation, and learning. The first REM episode usually begins about 90 minutes after falling asleep and lasts for about 10 minutes, but as the night progresses, REM episodes can last up to an hour and occur more frequently.
 
 ## 3. Tools
-- [Oura's API] (https://cloud.ouraring.com/v2/docs)
+- [Oura's API](https://cloud.ouraring.com/v2/docs)
 - Health Export CSV: https://apps.apple.com/us/app/health-export-csv/id1477944755
 - Google Drive's API: https://developers.google.com/drive
 - Dash
