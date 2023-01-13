@@ -54,5 +54,6 @@ Another one of my goals is to run the equivalent of the earth's circumference, t
 The next step is to implement tracking of my blood work results by uploading PDF files, which will enable me to monitor each biomarker over time.
 
 ## 5. Ressources
-Google drive api
+[Downloading and uploading files to Google drive using python](https://www.youtube.com/watch?v=Z2kfNx3Cgsk)
 [Dash tutorials](https://www.youtube.com/c/charmingdata)
+[Fontawesome icons](https://fontawesome.com/v4/icons/)
