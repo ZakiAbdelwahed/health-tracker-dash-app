@@ -44,7 +44,7 @@ Another one of my goals is to run the equivalent of the earth's circumference, t
 
 ## 4. Improvements
 
-**Apple Health data:** Collecting data directly from Apple Health proved to be challenging for me, so I chose to use the [Health Export CSV app](https://apps.apple.com/us/app/health-export-csv/id1477944755) to simplify the process. The app collects and exports the data as a CSV file, which I then upload to my Google Drive using the API. This method could be optimized to eliminate the manual steps of downloading and uploading files. 
+**Apple Health data:** Collecting data directly from Apple Health proved to be challenging for me, so I chose to use the [Health Export CSV app](https://apps.apple.com/us/app/health-export-csv/id1477944755) to simplify the process. The app collects and exports the data as a CSV file, which I then upload to my Google Drive and connect to the dashboard using the API. This method could be optimized to eliminate the manual steps of downloading and uploading files. 
 
 **Responsiveness:** I added annotations to the graphs, but they are not responsive. Additionally, the display of the graphs on mobile devices is only functional when the phone is held horizontally. These are two issues that I am currently unable to explain or resolve.
 
