@@ -39,8 +39,8 @@ Another one of my goals is to run the equivalent of the earth's circumference, t
 - [Oura's API](https://cloud.ouraring.com/v2/docs)
 - [Health Export CSV app](https://apps.apple.com/us/app/health-export-csv/id1477944755)
 - [Google Drive's API](https://developers.google.com/drive)
-- Dash
-- 
+- [Dash](https://dash.plotly.com/)
+
 ## 4. Upgrades
 
 ## 5. Ressources
